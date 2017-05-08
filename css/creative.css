@@ -2,10 +2,9 @@ html,
 body {
   height: 100%;
   width: 100%;
+  font-family: 'Montserrat', sans-serif;
 }
-body {
-  font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
-}
+
 nav{
   padding-top: 2%;
 }
